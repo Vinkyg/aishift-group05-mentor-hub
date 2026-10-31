@@ -1,0 +1,222 @@
+{
+  "prepared": "2026-10-31",
+  "participants": 7,
+  "projects": 6,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 159,
+      "sha256": "08e838c554128714c898c849e441eecde2d91ceab3ef39bc21f4ce3f411018a7"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1901,
+      "sha256": "7acd66cf43e21124f4bfc2698a6a3926e6ecfd3be6c514cc43c4f360c7d1414b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4860,
+      "sha256": "580f1c158500e82734b03fed5b8c80e972677400e97e0262a232017c66190f34"
+    },
+    {
+      "path": "cards/01-zatsarin.html",
+      "bytes": 12344,
+      "sha256": "189795c1d8a06f43ab443acc91455860d2b053eb3f7ee4782435fa341489e95c"
+    },
+    {
+      "path": "cards/02-kuslin.html",
+      "bytes": 12386,
+      "sha256": "3af6c9faf83b376e29f7994769a98a8d0cc296ba032c2463038c38a1d9a4f8fb"
+    },
+    {
+      "path": "cards/03-pletyukhin.html",
+      "bytes": 12462,
+      "sha256": "72a422e096746b53b9183dd7bcd610b095bf54fd43739dfa7864a69b6323f1ab"
+    },
+    {
+      "path": "cards/04-agarkov.html",
+      "bytes": 12806,
+      "sha256": "6c2355d1ccfb9453940ca086a95ded0be77b3ad4ae9f111b0f13101a399511db"
+    },
+    {
+      "path": "cards/05-alkhimovich.html",
+      "bytes": 12625,
+      "sha256": "8dae285b7b47894cca229cd14e7fa7574f56eea5d4ffb5fe3e5d28f98e7482f8"
+    },
+    {
+      "path": "cards/06-daryin.html",
+      "bytes": 12889,
+      "sha256": "cce2905c0d6e8711887d5d293f112de7bbc5ca512f8395d4bc8c54921a53fc62"
+    },
+    {
+      "path": "cards/07-fedotov.html",
+      "bytes": 12654,
+      "sha256": "f0d43c437aa04e1830628b66d6e9d8054c4d3e6447138d2a427875f1d0483498"
+    },
+    {
+      "path": "cards/index.html",
+      "bytes": 3628,
+      "sha256": "bda1b24d91ee324b8eb276490dffff05efc460039e3717a7d7d1f0dd49ad3239"
+    },
+    {
+      "path": "cards/sources/01-praktika-development.md",
+      "bytes": 16614,
+      "sha256": "0a6f7c64adcf7a602a437564440b8cd39ffb15416b34ed503e615ccff3569be2"
+    },
+    {
+      "path": "cards/sources/02-sorteks.md",
+      "bytes": 17445,
+      "sha256": "326d12801c4242057415877ae50bb489fd25a62239ea726d1186ed85f31d7abd"
+    },
+    {
+      "path": "cards/sources/03-gks-alyans.md",
+      "bytes": 15465,
+      "sha256": "b74f59db8ad787aac0c7a811d583771b7a86a5e90c35272ea1b2c601dca94114"
+    },
+    {
+      "path": "cards/sources/04-spetsstroypovolzhye.md",
+      "bytes": 16220,
+      "sha256": "25aa65ee56b400db10d409e1b8e6e7beaee215ec686e36dfad67a1cb9312717d"
+    },
+    {
+      "path": "cards/sources/05-soglasovanie-zakazov-naryadov.md",
+      "bytes": 17255,
+      "sha256": "1d6a0bffde62881227cd6c65d084116a2a6fbd3ec944245c4305e1889e199df3"
+    },
+    {
+      "path": "cards/sources/06-back-office-fedotov.md",
+      "bytes": 12766,
+      "sha256": "a234abf67061b2d1aed92ab20f6f0929c4ba206ec4ddb33032898e8746ec56e9"
+    },
+    {
+      "path": "cards/sources/recording-2-clean.md",
+      "bytes": 205069,
+      "sha256": "3c6285d5c3489fed06f66b4e0a37f02cb701f754507cf70b82a449abfc871a3f"
+    },
+    {
+      "path": "cards/sources/recording-3.md",
+      "bytes": 78683,
+      "sha256": "c878b163fa2b8c43647cc3b10a677c697dc4beacae6f339ac3d35d977746fc58"
+    },
+    {
+      "path": "mentors/README.md",
+      "bytes": 1463,
+      "sha256": "90480a10b65ff273ea2d521a08d167768133c21796b252212c5450730c8b1292"
+    },
+    {
+      "path": "mentors/next-session.md",
+      "bytes": 2288,
+      "sha256": "51bb663bbeac65460678888548a3970d55a1a472e283443f09ee99dc8f1f5d20"
+    },
+    {
+      "path": "mentors/tracker.md",
+      "bytes": 3423,
+      "sha256": "995833b38836d7f96ddf406e24b87440f474c2acbf5e203d7f6143868feeadd4"
+    },
+    {
+      "path": "participants/01-zatsarin/README.md",
+      "bytes": 717,
+      "sha256": "6434a0a4c91048ad5536d3f8303880419bdca26921f062a0827d53858688db42"
+    },
+    {
+      "path": "participants/02-kuslin/README.md",
+      "bytes": 806,
+      "sha256": "32bf86d096ab24b4cf31ad2440b3e9bbd0255e42c0a8c699afa73e69c6e6e87c"
+    },
+    {
+      "path": "participants/03-pletyukhin/README.md",
+      "bytes": 808,
+      "sha256": "51c1f05950c6e527649626aecb9da5de79dc73d798a808a8ceb169915a7d9edc"
+    },
+    {
+      "path": "participants/04-agarkov/README.md",
+      "bytes": 954,
+      "sha256": "8ec19c3f946e4b36ebb8a00b1db4d9938f4ed7daf80dbd6e4e75fcf1e3b955d5"
+    },
+    {
+      "path": "participants/05-alkhimovich/README.md",
+      "bytes": 880,
+      "sha256": "115b74770af65774effa0cabb234a194240318b04190684364bca052873d2832"
+    },
+    {
+      "path": "participants/06-daryin/README.md",
+      "bytes": 968,
+      "sha256": "9c0036cdab382df48babaf3e187519b995339698c72644e091265021f6bc9538"
+    },
+    {
+      "path": "participants/07-fedotov/README.md",
+      "bytes": 937,
+      "sha256": "06d5b1d3f20d5f693a2504786a17689d22bf266278a765c7dd58da7fd5c5102c"
+    },
+    {
+      "path": "participants/README.md",
+      "bytes": 985,
+      "sha256": "95615d2450eedfcfa974fd0a3f3bf6bac036fe552224a0b1b431bca1e4ffe466"
+    },
+    {
+      "path": "projects/back-office/README.md",
+      "bytes": 5195,
+      "sha256": "e62d2194f8b2e926618a88cd3445a2fa488266dc78b1db86ccfa583061d7cd35"
+    },
+    {
+      "path": "projects/back-office/source-card.md",
+      "bytes": 12766,
+      "sha256": "a234abf67061b2d1aed92ab20f6f0929c4ba206ec4ddb33032898e8746ec56e9"
+    },
+    {
+      "path": "projects/gks-alyans/README.md",
+      "bytes": 4892,
+      "sha256": "b91fb6973962a206e089c84ed0833b379732c5ed6329383b5c533ba0721e3c1a"
+    },
+    {
+      "path": "projects/gks-alyans/source-card.md",
+      "bytes": 15465,
+      "sha256": "b74f59db8ad787aac0c7a811d583771b7a86a5e90c35272ea1b2c601dca94114"
+    },
+    {
+      "path": "projects/it-work-orders/README.md",
+      "bytes": 5079,
+      "sha256": "3fe6183865523f759ca2c562687a2910484d4551df0a7981a53d72a2336ab8a4"
+    },
+    {
+      "path": "projects/it-work-orders/source-card.md",
+      "bytes": 17255,
+      "sha256": "1d6a0bffde62881227cd6c65d084116a2a6fbd3ec944245c4305e1889e199df3"
+    },
+    {
+      "path": "projects/praktika/README.md",
+      "bytes": 6200,
+      "sha256": "cf210a6b41cbddaa98d10f28ccc990c59cefadece00bfade81ed31f84e211e63"
+    },
+    {
+      "path": "projects/praktika/source-card.md",
+      "bytes": 16614,
+      "sha256": "0a6f7c64adcf7a602a437564440b8cd39ffb15416b34ed503e615ccff3569be2"
+    },
+    {
+      "path": "projects/sorteks/README.md",
+      "bytes": 4935,
+      "sha256": "382c739bf72ce7b01d4852dfe2bd9a7a3073af0425f25937a627caca6da9cf26"
+    },
+    {
+      "path": "projects/sorteks/source-card.md",
+      "bytes": 17445,
+      "sha256": "326d12801c4242057415877ae50bb489fd25a62239ea726d1186ed85f31d7abd"
+    },
+    {
+      "path": "projects/spetsstroypovolzhye/README.md",
+      "bytes": 4851,
+      "sha256": "4865f7c35390f5cad643965fee4c1f0cca6d1c57f51e8b25bb10ddc4932fc7a6"
+    },
+    {
+      "path": "projects/spetsstroypovolzhye/source-card.md",
+      "bytes": 16220,
+      "sha256": "25aa65ee56b400db10d409e1b8e6e7beaee215ec686e36dfad67a1cb9312717d"
+    },
+    {
+      "path": "sources/README.md",
+      "bytes": 1776,
+      "sha256": "68d61ad529d18abf7d3407adf93f65d8955ec905ceed33fa7c84a6971051aa70"
+    }
+  ]
+}
