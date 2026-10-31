@@ -15,8 +15,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4860,
-      "sha256": "580f1c158500e82734b03fed5b8c80e972677400e97e0262a232017c66190f34"
+      "bytes": 5502,
+      "sha256": "c7c69b769f1d54f0e3f085312b2330ed280024e5872ea480785e18b39b09e066"
     },
     {
       "path": "cards/01-zatsarin.html",
@@ -40,8 +40,8 @@
     },
     {
       "path": "cards/05-alkhimovich.html",
-      "bytes": 12625,
-      "sha256": "8dae285b7b47894cca229cd14e7fa7574f56eea5d4ffb5fe3e5d28f98e7482f8"
+      "bytes": 13363,
+      "sha256": "84c066ace51baacaffc4a8038f867bec42b23a73bd4dbe764329dbf44afe730b"
     },
     {
       "path": "cards/06-daryin.html",
@@ -79,9 +79,14 @@
       "sha256": "25aa65ee56b400db10d409e1b8e6e7beaee215ec686e36dfad67a1cb9312717d"
     },
     {
-      "path": "cards/sources/05-soglasovanie-zakazov-naryadov.md",
+      "path": "cards/sources/05-soglasovanie-zakazov-naryadov-previous.md",
       "bytes": 17255,
       "sha256": "1d6a0bffde62881227cd6c65d084116a2a6fbd3ec944245c4305e1889e199df3"
+    },
+    {
+      "path": "cards/sources/05-soglasovanie-zakazov-naryadov.md",
+      "bytes": 16868,
+      "sha256": "29ce65eb2f039ddcbaa137173a15fff9c024f59e39a81b37ed55c6b24ebc238f"
     },
     {
       "path": "cards/sources/06-back-office-fedotov.md",
@@ -99,6 +104,11 @@
       "sha256": "c878b163fa2b8c43647cc3b10a677c697dc4beacae6f339ac3d35d977746fc58"
     },
     {
+      "path": "cards/sources/recording-4-public.md",
+      "bytes": 135896,
+      "sha256": "f3a3d7f31d785a585394ec77304044cef0c5907cf6264df2daad2b90c6338d24"
+    },
+    {
       "path": "mentors/README.md",
       "bytes": 1463,
       "sha256": "90480a10b65ff273ea2d521a08d167768133c21796b252212c5450730c8b1292"
@@ -110,8 +120,8 @@
     },
     {
       "path": "mentors/tracker.md",
-      "bytes": 3423,
-      "sha256": "995833b38836d7f96ddf406e24b87440f474c2acbf5e203d7f6143868feeadd4"
+      "bytes": 3477,
+      "sha256": "aa7ed43e05cd1bc312578544781844fab5c770277470f5cabc970737e1f2ad4e"
     },
     {
       "path": "participants/01-zatsarin/README.md",
@@ -135,8 +145,8 @@
     },
     {
       "path": "participants/05-alkhimovich/README.md",
-      "bytes": 880,
-      "sha256": "115b74770af65774effa0cabb234a194240318b04190684364bca052873d2832"
+      "bytes": 1366,
+      "sha256": "e34b3d5f27f1e5999384dfc24c0bfe6eb78092724fc355cf6231c090b2bbe319"
     },
     {
       "path": "participants/06-daryin/README.md",
@@ -175,8 +185,8 @@
     },
     {
       "path": "projects/it-work-orders/README.md",
-      "bytes": 5079,
-      "sha256": "3fe6183865523f759ca2c562687a2910484d4551df0a7981a53d72a2336ab8a4"
+      "bytes": 16867,
+      "sha256": "a46f4cb27ffcfffe56e38c0f7b1dbcbd0f1350ac4af9da915a33a6e8e978965e"
     },
     {
       "path": "projects/it-work-orders/source-card.md",
@@ -215,8 +225,13 @@
     },
     {
       "path": "sources/README.md",
-      "bytes": 1776,
-      "sha256": "68d61ad529d18abf7d3407adf93f65d8955ec905ceed33fa7c84a6971051aa70"
+      "bytes": 2227,
+      "sha256": "32ad88a46acb5e1fceccb8e4ae781ba53bf297dbf0596078524dd12164332c47"
+    },
+    {
+      "path": "sources/recording-4-speakers.md",
+      "bytes": 6278,
+      "sha256": "631f8e981b2d5ac161237472f8d1a6ad08bca70cfc3b134f7c19be9a4eab416c"
     }
   ]
 }
